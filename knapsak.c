@@ -1,3 +1,5 @@
+//https://1drv.ms/p/s!Aj7X6suujg_4hEgWUlp_t66icfol?e=oHAgax
+
 #include <stdio.h>
 int n, m, v[10][20], p[10], w[10], sum = 0;
 int max(int, int);
